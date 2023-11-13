@@ -1,0 +1,18 @@
+# Maven target directory
+target/
+
+# IntelliJ IDEA files
+.idea/
+
+# IntelliJ IDEA out directory
+out/
+
+# Eclipse files
+.classpath
+.project
+
+# IntelliJ IDEA module file
+*.iml
+
+# Compiled .class files
+*.class
